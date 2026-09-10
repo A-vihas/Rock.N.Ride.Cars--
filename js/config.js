@@ -7,7 +7,6 @@ export const SAVE_KEY = 'rocknride_save_v6';
 export const HWY_Y = 14;
 export const HWY_W = 24;
 export const HWY_HALF = 255;
-
 // City grid
 export const STREETS = [-220, -132, -44, 44, 132, 220];
 export const STREET_WIDTH = 18;
