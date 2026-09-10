@@ -1,3 +1,4 @@
+console.log('MAIN.JS LOADED');
 import { getCarClass, HWY_Y, HWY_HALF, HWY_W, STREET_WIDTH, STREETS, TRAFFIC_COLORS } from './config.js';
 
 let seed = 4423;
